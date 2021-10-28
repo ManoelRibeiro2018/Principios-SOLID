@@ -1,0 +1,16 @@
+C:\Users\manoel.ribeiro.neto\source\repos\ConsoleApp6\ConsoleApp6\bin\Debug\net5.0\OCP.exe
+C:\Users\manoel.ribeiro.neto\source\repos\ConsoleApp6\ConsoleApp6\bin\Debug\net5.0\OCP.deps.json
+C:\Users\manoel.ribeiro.neto\source\repos\ConsoleApp6\ConsoleApp6\bin\Debug\net5.0\OCP.runtimeconfig.json
+C:\Users\manoel.ribeiro.neto\source\repos\ConsoleApp6\ConsoleApp6\bin\Debug\net5.0\OCP.runtimeconfig.dev.json
+C:\Users\manoel.ribeiro.neto\source\repos\ConsoleApp6\ConsoleApp6\bin\Debug\net5.0\OCP.dll
+C:\Users\manoel.ribeiro.neto\source\repos\ConsoleApp6\ConsoleApp6\bin\Debug\net5.0\ref\OCP.dll
+C:\Users\manoel.ribeiro.neto\source\repos\ConsoleApp6\ConsoleApp6\bin\Debug\net5.0\OCP.pdb
+C:\Users\manoel.ribeiro.neto\source\repos\ConsoleApp6\ConsoleApp6\obj\Debug\net5.0\OCP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manoel.ribeiro.neto\source\repos\ConsoleApp6\ConsoleApp6\obj\Debug\net5.0\OCP.AssemblyInfoInputs.cache
+C:\Users\manoel.ribeiro.neto\source\repos\ConsoleApp6\ConsoleApp6\obj\Debug\net5.0\OCP.AssemblyInfo.cs
+C:\Users\manoel.ribeiro.neto\source\repos\ConsoleApp6\ConsoleApp6\obj\Debug\net5.0\OCP.csproj.CoreCompileInputs.cache
+C:\Users\manoel.ribeiro.neto\source\repos\ConsoleApp6\ConsoleApp6\obj\Debug\net5.0\OCP.dll
+C:\Users\manoel.ribeiro.neto\source\repos\ConsoleApp6\ConsoleApp6\obj\Debug\net5.0\ref\OCP.dll
+C:\Users\manoel.ribeiro.neto\source\repos\ConsoleApp6\ConsoleApp6\obj\Debug\net5.0\OCP.pdb
+C:\Users\manoel.ribeiro.neto\source\repos\ConsoleApp6\ConsoleApp6\obj\Debug\net5.0\OCP.genruntimeconfig.cache
+C:\Users\manoel.ribeiro.neto\source\repos\ConsoleApp6\ConsoleApp6\obj\Debug\net5.0\OCP.csproj.AssemblyReference.cache
