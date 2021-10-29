@@ -1,0 +1,16 @@
+C:\Users\manoel.ribeiro.neto\source\repos\ConsoleApp6\SRP\bin\Debug\net5.0\SRP.exe
+C:\Users\manoel.ribeiro.neto\source\repos\ConsoleApp6\SRP\bin\Debug\net5.0\SRP.deps.json
+C:\Users\manoel.ribeiro.neto\source\repos\ConsoleApp6\SRP\bin\Debug\net5.0\SRP.runtimeconfig.json
+C:\Users\manoel.ribeiro.neto\source\repos\ConsoleApp6\SRP\bin\Debug\net5.0\SRP.runtimeconfig.dev.json
+C:\Users\manoel.ribeiro.neto\source\repos\ConsoleApp6\SRP\bin\Debug\net5.0\SRP.dll
+C:\Users\manoel.ribeiro.neto\source\repos\ConsoleApp6\SRP\bin\Debug\net5.0\ref\SRP.dll
+C:\Users\manoel.ribeiro.neto\source\repos\ConsoleApp6\SRP\bin\Debug\net5.0\SRP.pdb
+C:\Users\manoel.ribeiro.neto\source\repos\ConsoleApp6\SRP\obj\Debug\net5.0\SRP.csproj.AssemblyReference.cache
+C:\Users\manoel.ribeiro.neto\source\repos\ConsoleApp6\SRP\obj\Debug\net5.0\SRP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manoel.ribeiro.neto\source\repos\ConsoleApp6\SRP\obj\Debug\net5.0\SRP.AssemblyInfoInputs.cache
+C:\Users\manoel.ribeiro.neto\source\repos\ConsoleApp6\SRP\obj\Debug\net5.0\SRP.AssemblyInfo.cs
+C:\Users\manoel.ribeiro.neto\source\repos\ConsoleApp6\SRP\obj\Debug\net5.0\SRP.csproj.CoreCompileInputs.cache
+C:\Users\manoel.ribeiro.neto\source\repos\ConsoleApp6\SRP\obj\Debug\net5.0\SRP.dll
+C:\Users\manoel.ribeiro.neto\source\repos\ConsoleApp6\SRP\obj\Debug\net5.0\ref\SRP.dll
+C:\Users\manoel.ribeiro.neto\source\repos\ConsoleApp6\SRP\obj\Debug\net5.0\SRP.pdb
+C:\Users\manoel.ribeiro.neto\source\repos\ConsoleApp6\SRP\obj\Debug\net5.0\SRP.genruntimeconfig.cache
